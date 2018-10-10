@@ -4,7 +4,7 @@
     "slug": "smartthings",
     "description": "Smart Things Mqtt Bridge (https://github.com/stjohnjohnson/smartthings-mqtt-bridge)",
     "url": "https://github.com/lemieux/hassio-addons/tree/master/smartthings",
-    "image": "vkorn/{arch}-smartthings",
+    "image": "lemieux/{arch}-smartthings",
     "startup": "before",
     "boot": "auto",
     "ports": {
