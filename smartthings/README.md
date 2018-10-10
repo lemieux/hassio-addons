@@ -6,6 +6,7 @@ Everything is configurable through UI. Available params:
 
 | Param          | Description              |
 |----------------|--------------------------|
+| broker_protocol| MQTT broker protocol     |
 | broker_host    | MQTT broker host         |
 | broker_port    | MQQT broker port         |
 | login          | MQTT broker login        |
